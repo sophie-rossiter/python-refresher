@@ -37,10 +37,4 @@ def read_file(file):
         print("File not found")
         return None
 
-print(sum_list_of_numbers([1,2,3]))
-print(reverse_word("hello"))                
-print(get_highest_scorer({"Alice": 5, "Bob": 8})) 
-print(find_multiples_to_ten(2)) 
-print(greeting("Sam"))  
-
 # These are basic functions which are not built to handle all cases
